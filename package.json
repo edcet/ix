@@ -66,8 +66,7 @@
     "webpack-dev-server": "^4.13.1"
   },
   "scripts": {
-    "relay": "relay-compiler",
-    "preinstall": "node preinstall.js"
+    "relay": "relay-compiler"
   },
   "keywords": [],
   "author": "",
